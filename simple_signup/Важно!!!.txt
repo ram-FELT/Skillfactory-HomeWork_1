@@ -1,0 +1,11 @@
+username:admin    password:admin
+
+рассылка проверена на 
+@ yandex.ru создан 1 пользователь (основной адрес)
+@ gmail.com создан 1 пользователь
+
+при отправке себе (@ yandex.ru) и обычная и недельная россылка приходят нормально
+при отправке себе не на основной адрес (@ gmail.com) 
+выкидывает в спам (smtplib.SMTPDataError: (554, b'5.7.1 Message rejected under suspicion of SPAM; https://ya.cc/1IrBc 1656903221-CJzJPrBazx-rfNmjWxx')
+
+
